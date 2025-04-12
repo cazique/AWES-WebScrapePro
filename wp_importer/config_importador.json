@@ -1,0 +1,19 @@
+{
+    "WP_URL": "",
+    "WP_USER": "",
+    "WP_PASS": "",
+    "FEED_URL": "https://torquemag.io/category/development/feed/",
+    "MAX_POSTS": 50,
+    "DELAY_REQUESTS": 3,
+    "MAX_IMAGENES": 50,
+    "IMPORT_IMAGENES": true,
+    "IMPORT_VIDEOS": false,
+    "IMPORT_TEXTO": true,
+    "AUTO_DETECTAR_CAMBIOS": true,
+    "MODO_ASINCRONO": false,
+    "MAX_WORKERS": 3,
+    "CATEGORIES": [],
+    "TAGS": [],
+    "AUTHOR_ID": null,
+    "PROXIES": []
+}
